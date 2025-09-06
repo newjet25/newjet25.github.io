@@ -3,9 +3,7 @@ layout: home
 title: "Welcome to My Articles"
 ---
 
-# Welcome
+Welcome to my GitHub Pages site! Here you'll find my latest articles and posts. See the list of pages below:
 
-This is my personal site where I publish articles, tutorials, and thoughts on various topics.
-
-- Check out the [About](about.md) page to learn more about me.
-- Read my latest articles below!
+- [About](about.md)
+- [All Posts](/)
