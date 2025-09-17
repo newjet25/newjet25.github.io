@@ -12,7 +12,7 @@ But anyone who has lived through POC knows it is not just about writing code or 
 
 Let’s elaborate further and understand different levels and strategy at each level.
 
-<ins> Level 1: Quick local experiment </ins>
+## <ins> Level 1: Quick local experiment </ins>
 
 **_Stage Objective_**: _Prove basic feasibility with minimal effort._
 
