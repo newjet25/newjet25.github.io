@@ -76,3 +76,10 @@ Be inclusive, give credit, include those help with review, stake-holder, and oth
 	Maintain active communication with stakeholders, focus on enterprise scalability and governance.
 
 
+**Dimension** | **What to Measure**	| **Sample Questions** | **Weight (adjust based on scope of POC)** | **Scoring**
+---- | ---- | ---- | ---- | ----
+Business | Does it solve the core problem?	| ROI potential, customer satisfaction | 30% | Low value – Measurable value
+Technical feasibility | Can it be built and scaled in enterprise | feasibility, throughput | 25% | Technical Risk – Seamless fit
+Integration fit	| Fit with existing system and processes | Legacy compatibility, data flow alignment | 15% | Integration risk – Seamless fit
+Security & Compliance | Can it pass security and governance requirement	| Code compliance,Compliance standards e.g. SOC2, FINRA,GDPR | 10% | Risky – Fully compliant
+User Adoption | Ease and probability of usage | Ease of use, training, UX feedback | 10% | Hard to adopt --- Easy adopt
